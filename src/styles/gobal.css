@@ -1,0 +1,28 @@
+/* Loading tailwind components */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Cmac";
+  src: url("../assets/fonts/cmac.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+  /* Bg Colors */
+  --offer-widget-bg-color-1: #191c1f;
+  --offer-widget-bg-color-2: #ebc80c;
+  --top-nav-bg-color-1: #1b6392;
+  --top-nav-seperator-color-1: rgba(206, 206, 206, 0.45);
+  --middle-nav-bg-color-1: #1b6392;
+  /* Text Colors */
+  --offer-widget-text-color-1: #ffffff;
+  --offer-widget-text-color-2: #ebc80c;
+  --offer-widget-text-color-3: #000000;
+  --top-nav-text-color-1: #ffffff;
+  --middle-nav-text-color-1: #ffffff;
+  /* Border Colors */
+  --middle-nav-border-color-1: rgba(206, 206, 206, 0.45);
+}
