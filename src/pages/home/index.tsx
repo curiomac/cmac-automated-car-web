@@ -1,9 +1,10 @@
-import LightControl from "./layouts/light-control";
+
+import IoTDashboard from "./layouts/iot-dashboard";
 
 const Home = () => {
   return (
     <>
-      <LightControl />
+      <IoTDashboard />
     </>
   );
 };

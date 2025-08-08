@@ -21,7 +21,8 @@ body {
 
 body,
 input,
-button {
+button,
+div {
   color: #676767;
   font-family: "Cmac", sans-serif !important;
 }

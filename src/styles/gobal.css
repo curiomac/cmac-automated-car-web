@@ -26,3 +26,21 @@
   /* Border Colors */
   --middle-nav-border-color-1: rgba(206, 206, 206, 0.45);
 }
+
+:root {
+  /* Bg Colors */
+  --primary-color-1: #0a3e78;
+  --secondary-color-1: #fd7b24;
+  --primary-color-1-hover: #184c7d;
+  --top-nav-bg-color-1: #1b6392;
+  --top-nav-seperator-color-1: rgba(206, 206, 206, 0.45);
+  --middle-nav-bg-color-1: #1b6392;
+  /* Text Colors */
+  --offer-widget-text-color-1: #ffffff;
+  --offer-widget-text-color-2: #ebc80c;
+  --offer-widget-text-color-3: #000000;
+  --top-nav-text-color-1: #ffffff;
+  --middle-nav-text-color-1: #ffffff;
+  /* Border Colors */
+  --middle-nav-border-color-1: rgba(206, 206, 206, 0.45);
+}
